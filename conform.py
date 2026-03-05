@@ -1,1 +1,1 @@
-# This script is written by İlhan Taşkın
+# Senior Dev: İlhan Taşkın
